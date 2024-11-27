@@ -5,9 +5,9 @@
   text-align: center;
 }
 
-.panel{
+.panel {
   display: flex;
-  gap:20px ;
+  gap: 20px;
 }
 .read-the-docs {
   color: #888;
