@@ -1,5 +1,3 @@
-# Mansoor VRV Security’s Backend Developer Intern Assignment
-
 ## Role-Based Access Control (RBAC)
 
 ### Overview
